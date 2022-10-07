@@ -7,6 +7,11 @@ Live Demo: https://padre-cafe.netlify.app/
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** 
+- HTML5
+- CSS3 
+- JavaScript
+- Bootstrap
+- jQuery
 
 
